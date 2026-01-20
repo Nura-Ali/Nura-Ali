@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Nura Ali
 
-<!--
-**Nura-Ali/Nura-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+### Software Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 *Gmail:* [nuraali@gmail.com](mailto:nuraali@gmail.com)
+- 🌐 *Other:* [tiigsi.com](https://tiigsi.com)
+
+<hr>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nura-Ali&label=Profile%20views&color=ce940a&style=flat" alt="Nura-Ali" />
+</p>
+
+[![Followers](https://img.shields.io/github/followers/Nura-Ali?label=Followers&style=social)](https://github.com/Nura-Ali)
