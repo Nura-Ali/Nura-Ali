@@ -6,6 +6,7 @@
 
 - 📧 *Gmail:* [nuraali@gmail.com](mailto:nuraali@gmail.com)
 - 🌐 *Other:* [tiigsi.com](https://tiigsi.com)
+- Porfolio: https://nura-ali.github.io/Nuura_Ali/
 
 <hr>
 
