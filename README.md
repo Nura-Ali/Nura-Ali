@@ -1,17 +1,10 @@
-# Hi 👋, I'm Nura Ali
 
-<hr>
+# 👋 Hi, I'm Nura Ali
+Software Developer | Tech Enthusiast
 
-### Software Developer | Tech Enthusiast
+### 🛠 Tech Stack
+- HTML5, CSS3, JavaScript
+- Frameworks: React, Next.js
 
-- 📧 *Gmail:* [nuraali@gmail.com](mailto:nuraali@gmail.com)
-- 🌐 *Other:* [tiigsi.com](https://tiigsi.com)
-- Porfolio: https://nura-ali.github.io/Nuura_Ali/
-
-<hr>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nura-Ali&label=Profile%20views&color=ce940a&style=flat" alt="Nura-Ali" />
-</p>
-
-[![Followers](https://img.shields.io/github/followers/Nura-Ali?label=Followers&style=social)](https://github.com/Nura-Ali)
+### 🌐 Connect with me
+- [Live Website](https://nuura-ali-1nan.vercel.app)
