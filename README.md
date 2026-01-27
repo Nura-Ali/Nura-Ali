@@ -7,7 +7,7 @@
 
 ### 🌐 My Live Project
 Halkan ka eeg website-kayga rasmiga ah:  
-👉 *[Fiiri Website-ka (Live Demo)](https://nuura-ali-1nan.vercel.app)*
+👉 https://nura-ali.github.io/Nuura_Ali/
 
 ### 🛠 My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
